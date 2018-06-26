@@ -7,7 +7,7 @@ const Board = styled.div`
   grid-gap: 0;
   grid-template-areas: 'zero one two' 'three four five' 'six seven eight';
   grid-template-columns: 20vh 20vh 20vh;
-  grid-tekmplate-rows: 20vh 20vh 20vh;
+  grid-template-rows: 20vh 20vh 20vh;
   height: 60vh;
   justify-self: center;
   margin: auto;
